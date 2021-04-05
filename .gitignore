@@ -315,8 +315,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# comment
+# ssafy
 수업
-
+SWEA/모의 SW 역량테스트
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,python,pycharm,vscode
