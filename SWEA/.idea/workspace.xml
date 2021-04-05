@@ -23,34 +23,47 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="263" />
+          <entry key="py" value="267" />
           <entry key="py ★" value="1" />
-          <entry key="txt" value="137" />
+          <entry key="txt" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="138" />
-          <entry key="Python" value="263" />
+          <entry key="PLAIN_TEXT" value="142" />
+          <entry key="Python" value="267" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="74" />
-          <entry key="py" value="59351" />
+          <entry key="py" value="60773" />
           <entry key="txt" value="318" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="392" />
-          <entry key="Python" value="59351" />
+          <entry key="Python" value="60773" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/D5/1248_공통조상/1248_sol1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <marker date="1617630585790" expanded="true" signature="322:404" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,8 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/D4/5432_쇠막대기 자르기/5432_sol2.py" />
-        <option value="$PROJECT_DIR$/D2/4866_괄호검사/4866_sol1.py" />
         <option value="$PROJECT_DIR$/D4/5432_쇠막대기 자르기/5432_sol3.py" />
         <option value="$PROJECT_DIR$/D4/5432_쇠막대기 자르기/5432_sol1.py" />
         <option value="$PROJECT_DIR$/D4/1219_길찾기/1219_sol1.py" />
@@ -126,6 +137,8 @@
         <option value="$PROJECT_DIR$/D4/1231_중위순회/1231_sol2.py" />
         <option value="$PROJECT_DIR$/D4/1231_중위순회/1231_sol1.py" />
         <option value="$PROJECT_DIR$/D4/1231_중위순회/1231_sol3.py" />
+        <option value="$PROJECT_DIR$/D5/1248_공통조상/test.py" />
+        <option value="$PROJECT_DIR$/D5/1248_공통조상/1248_sol1.py" />
       </list>
     </option>
   </component>
@@ -174,18 +187,7 @@
             <path>
               <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="D4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="모의 SW 역량테스트" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWEA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="모의 SW 역량테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="1949_등산로 조성" type="462c0819:PsiDirectoryNode" />
+              <item name="D5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1231_sol2">
+  <component name="RunManager" selected="Python.1248_sol1">
     <configuration name="10966_sol1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1952_sol1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1248_sol1" type="PythonConfigurationType" factoryName="Python">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의 SW 역량테스트/1952_수영장" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D5/1248_공통조상" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의 SW 역량테스트/1952_수영장/1952_sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D5/1248_공통조상/1248_sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,11 +334,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1952_sol1" />
-      <item itemvalue="Python.1952_sol2" />
-      <item itemvalue="Python.10966_sol1" />
+      <item itemvalue="Python.1248_sol1" />
       <item itemvalue="Python.1231_sol1" />
       <item itemvalue="Python.1231_sol2" />
+      <item itemvalue="Python.1952_sol2" />
+      <item itemvalue="Python.10966_sol1" />
     </list>
     <recent_temporary>
       <list>
@@ -344,7 +346,6 @@
         <item itemvalue="Python.1231_sol1" />
         <item itemvalue="Python.10966_sol1" />
         <item itemvalue="Python.1952_sol2" />
-        <item itemvalue="Python.1952_sol1" />
       </list>
     </recent_temporary>
   </component>
@@ -372,19 +373,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12690632" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12690632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31765935" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31765935" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39916405" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32916668" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -512,32 +514,15 @@
           <line>28</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/D5/1248_공통조상/1248_sol1.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/D4/1219_길찾기/1219_sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D3/1217_거듭 제곱/1217_sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2/4881_배열 최소 합/4881_sol2.py" />
-    <entry file="file://$PROJECT_DIR$/D2/4881_배열 최소 합/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="5" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/D2/4874_Forth/4874_sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-612">
@@ -805,10 +790,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/D5/1248_공통조상/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/D4/1231_중위순회/1231_sol1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="53" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="53" />
+        <state relative-caret-position="275">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D5/1248_공통조상/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D5/1248_공통조상/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D5/1248_공통조상/1248_sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <marker date="1617630585790" expanded="true" signature="322:404" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
