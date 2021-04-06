@@ -14,6 +14,7 @@ def find_parent(now):
     return parent
 
 
+# 서브 트리 개수를 리턴해주는 함수
 def subtree_count(now):
     if not tree[now]:
         return 1
