@@ -46,7 +46,6 @@ for tc in range(1, T + 1):
             break
 
     # 서브 트리 개수 찾기
-    # cnt=1은 common_ancestor 하나 있는 상태
     cnt = subtree_count(common_ancestor)
 
     print('#{} {} {}'.format(tc, common_ancestor+1, cnt))
