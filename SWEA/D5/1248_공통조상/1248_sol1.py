@@ -36,7 +36,7 @@ for tc in range(1, T + 1):
         tree[root - 1].append(node - 1)
         find_root[node - 1] = root - 1
 
-    # 공통 조상 찾기
+    # 가장 가까운 공통 조상 찾기
     common_ancestor = -1
     parent1 = find_parent(node1)
     parent2 = find_parent(node2)
