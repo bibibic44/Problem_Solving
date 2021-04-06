@@ -18,14 +18,19 @@ def make_bin_tree(N, tree):
 
 # 트리 순회(in-order) + 문제 조건에 맞는 트리 만들기
 def make_tree(now_node, now_num, tree_list, tree):
+    # 리프 노드 -> now_num을 값으로 저장
     if not tree[now_node]:
         tree_list[now_node] = now_num
+        # now_num 은 1 증가한다.
         now_num += 1
         return now_num
+    # 자식 노드 순회
     for node in tree[now_node]:
         now_num = make_tree(node, now_num, tree_list, tree)
+        # 서브 트리의 루트 -> now_num을 값으로 저장
         if tree_list[now_node] == -1:
             tree_list[now_node] = now_num
+            # now_num 은 1 증가한다.
             now_num += 1
     return now_num
 
